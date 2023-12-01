@@ -1,0 +1,113 @@
+body{
+    height: auto;
+}
+.hom{
+    width: 20px;
+    height: 20px;
+    margin: auto;
+}
+.breadcrumb-item{
+    display: flex;
+    justify-content: space-between;
+    margin: auto;
+}
+.hom1{
+    text-decoration: none;
+    color: aqua;
+}
+.contener{
+    margin: 10px;
+}
+.page11{
+    width: 100%;
+    height: 100%;
+    background-image: url("sfon.jpg");
+    background-position: fixed;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+}
+.txblock{
+    display: block;
+    width: 60%;
+    height: auto;
+    color: aqua;
+    border-radius: 7px;
+    backdrop-filter: blur(20px);
+    font-size: x-large;
+    padding: 5%;
+    text-align:unset;
+    margin: auto;
+    border: 10px 10px ;
+    border-style: dashed ;
+    border-color: aqua;   
+}
+.list-group1{
+    width: 100%;
+    background-attachment: fixed;
+    display: flex;
+    flex-direction: row;
+}
+.spl{
+    width: auto;
+    height: auto;
+    display: flex;
+    flex-direction: row;
+    margin: auto;
+    
+}
+.col{
+    width: 80%;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    backdrop-filter: blur(15px);
+}
+.txt{
+    width: 100%;
+    color: aqua;
+    background-color: none;
+    border: 5px 5px aqua;
+    padding: auto;
+    border-style: grooveS;
+    text-decoration: none;
+    padding: 10px;
+}
+.txt:hover{
+    box-shadow: 0 0 10px 5px aquamarine;
+    color: rgb(151, 255, 255);
+}
+.coll{
+    width: 100%;
+    height: 17%;
+    backdrop-filter: blur(15px);
+    color: aqua;
+    padding: 3%;
+    margin: auto;
+    display: block;
+}
+.contener{
+    padding: auto;
+    display: block;
+    margin: 0px;
+    backdrop-filter: blur(20px);
+}
+.colk{
+    width: 20%;
+    height: 10%;
+    color: aqua;
+    padding: auto;
+    padding: 10px;
+}
+
+.contener1{
+    width: 20%;
+    z-index: 1;
+    position: fixed;
+}
+.bl{
+    margin: 5px;
+}
+.col11{
+    padding: 3em;
+}
